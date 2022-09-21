@@ -4,7 +4,7 @@
 ###This is a dot style renderer, using the Command Prompt as the screen. The knowlegde is learned from openGL.
 The basic structure and the steps of implementation is as follow:
 
-implement interpolation\n
+implement interpolation/n
 //convert between Normalized Device Coordinates and 2D array coordinates
 //point-in-polygon
 //make a triangle and square
