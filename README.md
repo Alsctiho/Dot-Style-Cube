@@ -19,3 +19,5 @@ The basic structure and the steps of implementation is as follow:
 //convert transformed matrices to screen view, perspective projection matrix
 //Field of view
 //a cube
+
+![Dot Cube]()
