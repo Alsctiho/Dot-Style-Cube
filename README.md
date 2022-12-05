@@ -1,7 +1,7 @@
-# Renderer
-## dot style renderer using command prompt
+# Dot Style Cube
 
-### This is a dot style renderer, using the Command Prompt as the screen. The knowlegde is learned from openGL.
+## dot style renderer using command prompt
+This is a dot style renderer, using the Command Prompt as the screen. The knowlegde is learned from openGL.
 The basic structure and the steps of implementation is as follow:
 
 - [x] implement interpolation
