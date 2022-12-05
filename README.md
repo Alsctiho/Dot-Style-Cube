@@ -4,12 +4,12 @@
 ### This is a dot style renderer, using the Command Prompt as the screen. The knowlegde is learned from openGL.
 The basic structure and the steps of implementation is as follow:
 
-implement interpolation
-- [x] convert between Normalized Device Coordinates and 2D array coordinates
-- [x] point-in-polygon
+- [x] implement interpolation
+  - [x] convert between Normalized Device Coordinates and 2D array coordinates
+  - [x] point-in-polygon
 - [x] make a triangle and square
-  - [ ] EBO (optional)
-  - [ ] can read file (optional)
+- [ ] EBO (optional)
+- [ ] can read file (optional)
 - [x] implement matrix and vector
   - [x] convert 3D model data to 4 units vector
   - [x] normalize
